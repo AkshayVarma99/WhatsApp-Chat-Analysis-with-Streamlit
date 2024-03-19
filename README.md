@@ -15,3 +15,4 @@ This Streamlit app analyzes WhatsApp chat data to provide insights such as messa
 ## Run the App
 
 Run the Streamlit app using the following command:
+streamlit run app.py
